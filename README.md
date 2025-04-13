@@ -13,7 +13,6 @@
 🔹 **Bachelor of Engineering Student **  
 🔹 Passionate about **Data Science, Machine Learning & Python**  
 🔹 Currently learning **Statistical Analysis, Data Visualization & Predictive Modeling**  
-🔹 Hands-on experience with **Data Cleaning, Feature Engineering & Model Evaluation**  
 🔹 Self-learning and improving my **skills in Python for Data Science**  
 
 ---
