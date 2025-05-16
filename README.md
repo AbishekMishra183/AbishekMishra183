@@ -48,5 +48,4 @@
 
 ---
 
-### **🔥 Fun Fact**
-💡 **Data is the new oil!** Every dataset is a new opportunity to uncover insights and drive impactful decisions. Just like data science empowers organizations, I aim to apply it to solve real-world problems.
+
